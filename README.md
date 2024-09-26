@@ -1,8 +1,8 @@
 # cp2024
 ## Part1
 this is README
-- item1
-- item2
+- itemA
+- itemB
 
 ## Part2
 1. sunday
